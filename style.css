@@ -1,0 +1,247 @@
+body {
+  font-family: sans-serif;
+}
+
+.dan-cliff{
+  display: flex;
+  margin-top: 20px;
+  margin-bottom: 0;
+  margin-left: 20px;
+  text-transform: capitalize;
+}
+.type-style{
+  font-size: 13px;
+  margin-left: 10px;
+  color: rgba(255, 255, 255, 0.8);
+}
+.dan-img{
+  border-radius: 200px;
+  width: 40px;
+  height: 40px
+}
+.dan-remarks{
+  margin-bottom: 0;
+  color: rgb(222, 209, 209);
+  width: 90%;
+  margin-left: 20px;
+  font-size: 14px;
+  margin-top: -2px;
+}
+.mr-dantalk{
+  margin-top: 15px;
+  margin-left: 20px;
+ font-size: 12.5px;
+ padding-right: 20px;
+ width: 100%;
+}
+.mr-daniel{
+  width: 410px;
+  background-color:  hsl(263, 55%, 52%);
+  padding-top: 3px;
+  padding-bottom: 80px;
+  border-radius: 8px;
+  margin-top: 20px;
+  margin-left: 10px;
+  color: rgba(255, 255, 255, 0.3);
+  height: 170px;
+  padding-right: 40px;
+}
+  .verg{
+    font-size: 10px;
+    color: rgba(255, 255, 255, 0.3);
+    }
+
+  .jean-overview{
+    margin-top: 15px;
+    box-shadow: 7px 10px 100px rgb(187, 187, 200);
+    margin-left: 10px;
+    width: 210px;
+    border-radius: 8px;
+    background-color: White hsl(0, 0%, 100%);
+    height: 235px;
+  }
+  .jean-imgp{
+    display: flex;
+    text-transform: capitalize;
+    padding: 3px;
+  }
+  .jean-img{
+    border-radius: 200px;
+    margin-top: 10px;
+    margin-left: 15px;
+    width: 40px;
+    height: 40px;
+  }
+  .jean-taa{
+    margin-left: 8px;
+    color: rgba(0, 0, 0, 0.7);
+  }
+  .jean-review{
+    width: 280px;
+    margin-left: 8px;
+    height: 80px;
+    color: rgba(0, 0, 0, 0.4);
+    font-size: 13px;
+  }
+  .talk{
+    margin-left: 12px;
+    margin-bottom: 0;
+    width: 200px;
+    margin-top: -12px;
+    color: rgba(0, 0, 0, 0.7);
+  }
+  .vergg{
+    color: rgba(0, 0, 0, 0.4);
+    font-size: 12px;
+  }
+  .jona-imgp{
+    display: flex;
+    margin-top: 10px;
+    text-transform: capitalize;
+    margin-top: 12px;
+  }
+  .jona-img{
+    display: flex;
+  }
+  .jo-img{
+    width: 40px;
+    height: 40px;
+    border-radius: 50px;
+    margin-top: 17px;
+    text-transform: capitalize;
+  }
+  .walt{
+    margin-left: 10px;
+    text-transform: capitalize;
+    color: rgba(255, 255, 255, 0.8);
+    font-size: 15px;
+  }
+  .jona-overview{
+    background-color: hsl(217, 19%, 35%);
+    width: 200px;
+    border-radius: 8px;
+    margin-left: 10px;
+    margin-top: 20px;
+    padding-left: 15px;
+    padding-top: 8px;
+    padding-bottom: 20px;
+    padding-right:20px;
+    height: 225px;
+  }
+  .verj{
+    color: rgba(255, 255, 255, 0.5);
+    font-size: 13px;
+  }
+  .jona-p{
+    color: rgba(255, 255, 255, 0.8);
+    margin-top: 10px;
+    font-size: 14.7px;
+  }
+  .jonapp{
+    color: rgba(255, 255, 255, 0.5);
+    font-size: 13px;
+  }
+  .mend1{
+    display: flex;
+  }
+  .pat-img{
+    display: flex;
+    margin-top: 0px;
+    margin-left: 12px;
+  }
+  .patto{
+    width: 40;
+    height: 40px;
+    margin-top: 20px;
+    border-radius: 50px;
+  }
+  .patab{
+    color: rgba(255, 255, 255, 0.8);
+    font-size: 15px;
+    text-transform: capitalize;
+    margin-top: 16px;
+    margin-left: 10px;
+  }
+  .patveri{
+  color: rgba(255, 255, 255, 0.5);
+  font-size: 12px;
+  text-transform: capitalize;
+  margin-top: 10px;
+  }
+  .pat-overview{
+    width: 465px;
+    height: 237px;
+    background-color:  hsl(219, 29%, 14%);
+    border-radius: 8px;
+    margin-top: 14px;
+    margin-right: 14px;
+    margin-left: 14px;
+  }
+  .hop{
+    margin-left: 10px;
+    margin-top: 10px;
+  }
+  .pato-sub{
+    color: rgba(255, 255, 255, 0.8);
+    font-size: 11.5px;
+    width: 74%;
+    margin-left: 8px;
+    margin-top: -8px;
+    text-transform: capitalize;
+  }
+  .pato-exp{
+    color: rgba(255, 255, 255, 0.5);
+    margin-left: 10px;
+    font-size: 12.7px;
+    margin-top: 19px;
+  }
+  .mend2{
+    display: flex;
+  }
+  .kira-overview{
+    background-color: White hsl(0, 0%, 100%);
+    border-radius: 8px;
+    margin-top: 20px;
+    width: 200px;
+    height: 460px;
+    padding-bottom: 8px;
+    box-shadow: 7px 10px 100px rgb(187, 187, 200);
+    padding-left: 8px;
+    padding-right: 8px;
+    margin-left: 10px;
+    
+  }
+  .kirapic{
+    display: flex;
+    margin-top: 20px;
+    margin-left: 8px;
+  }
+  .kiratpic{
+    width: 50px;
+    height: 50px;
+    border-radius: 30px;
+    margin-top: 15px;
+    
+  }
+  .kirahe{
+    margin-left: 10px;
+    margin-top: 30px;
+    text-transform: capitalize;
+    font-size: 17px;
+  }
+  .kirar{
+    color: rgba(156, 156, 156, 0.5);
+    font-size: 13px;
+  }
+  .kiratalk{
+    font-size: 12px;
+    color: rgba(156, 156, 156, 0.9);
+  }
+  .mend3{
+    display: flex;
+  }
+  .kirasho{
+    margin-top: 6px;
+    font-size: 13px;
+    width: 80%;
+  }
